@@ -30,8 +30,9 @@ public class Array
  System.out.println("count of :"+a[i]+"="+c);
 }
 }
- System.out.println("count of :"+a[i]+"="+c);
+ System.out.println("Hiiiiii");
 }
+ 
 }
 }
 }
